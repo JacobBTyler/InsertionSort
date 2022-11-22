@@ -8,5 +8,5 @@ Sometimes it is difficult to visualize how sorting algorithms work. This program
 
 ![image](https://github.com/BaronScottCS/InsertionSort/blob/main/Images/InsertionSort.png)
 
-##Installation
+## Installation
 This program requires Microsoft Visual Studio to run. You can install Visual Studio from [here.](https://visualstudio.microsoft.com/)
